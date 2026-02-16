@@ -52,7 +52,7 @@ Soy un **Desarrollador Web** y **Analista QA** apasionado por construir solucion
 
 ### Conéctate conmigo:
 <p align="left">
-<a href="https://https://www.instagram.com/ing.jean_salinas" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/ing.jean_salinas" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="mailto:ing.jeansebastian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="www.linkedin.com/in/jean-salinas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jean-salinas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
