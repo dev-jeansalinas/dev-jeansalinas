@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola 👋! Mi nombre es Jean Sebastián Gómez Salinas
 
-<!--
-**dev-jeansalinas/dev-jeansalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí...
+Soy un **Desarrollador en formación** apasionado por construir soluciones digitales. Actualmente estoy enfocado en dominar las tecnologías del ecosistema Web para crear experiencias increíbles.
 
-Here are some ideas to get you started:
+- 🔭 **Objetivo actual:** Construir mis primeros proyectos reales y fortalecer mis bases de lógica.
+- 🌱 **Aprendiendo:** HTML5, CSS3, JavaScript (ES6+).
+- 💬 **Pregúntame sobre:** Música y tecnología.
+- ⚡ **Dato curioso:** ¡Creo que el código y la música tienen mucho en común!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías que estoy dominando:
+<p align="left">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 Mis Estadísticas de GitHub:
+![Estadísticas de Jean](https://github-readme-stats.vercel.app/api?username=dev-jeansalinas&show_icons=true&theme=tokyonight)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jeansalinas&layout=compact&theme=tokyonight)
