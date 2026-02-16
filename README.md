@@ -1,6 +1,6 @@
 # ¡Hola 👋! Mi nombre es Jean Sebastián Gómez Salinas y soy Ingeniero de Sistemas
 
-### 🚀 Sobre mí...
+### Sobre mí...
 Soy un **Desarrollador Web** y **Analista QA** apasionado por construir soluciones digitales y asegurar su calidad. Actualmente estoy enfocado en dominar el ecosistema Web y la automatización de procesos para crear experiencias increíbles y robustas.
 
 ### Tecnologías y Herramientas:
