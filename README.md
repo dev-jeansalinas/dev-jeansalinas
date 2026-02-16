@@ -56,8 +56,3 @@ Soy un **Desarrollador Web** y **Analista QA** apasionado por construir solucion
 <a href="mailto:ing.jeansebastian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="www.linkedin.com/in/jean-salinas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-### 🐍 Mi Culebrita de Contribuciones:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dev-jeansalinas/dev-jeansalinas/output/github-snake.svg" alt="Snake animation" />
-</p>
